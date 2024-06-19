@@ -4,13 +4,6 @@
 
 Soy un estudiante de Ingeniería Informática apasionado por el desarrollo de software y la gestión de proyectos. Estoy buscando oportunidades para aplicar mis conocimientos y habilidades en un entorno profesional, contribuyendo al éxito de la organización mientras continúo mi desarrollo profesional.
 
-## 💼 Experiencia en Desarrollo de Software
-
-### Proyecto "Barrios de Quito" (2023)
-- **Descripción:** Mejora y optimización de la plataforma Moodle "Barrios de Quito" para facilitar la difusión de las actividades realizadas por los proyectos de vinculación con la sociedad.
-- **Tareas realizadas:** Rediseño de la interfaz de usuario para mejorar la usabilidad y visualización.
-- **Institución:** Facultad de Trabajo Social, Universidad Central del Ecuador
-
 ## 🔧 Habilidades Técnicas
 
 - **Lenguajes de Programación:** 
@@ -44,7 +37,26 @@ Soy un estudiante de Ingeniería Informática apasionado por el desarrollo de so
 - **Redes e Infraestructura:**
   - Conocimientos básicos en infraestructura de redes
 
+## 📈 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=millanda29&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=millanda29&layout=compact&theme=radical)
+
+## 🌱 En Proceso de Aprendizaje
+
+- **Frameworks y Librerías:** 
+  - Angular [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+  - Vue.js
+
+- **Herramientas de Automatización:** 
+  - Jenkins
+  - Kubernetes
+
 ## 📫 Contacto
 
 - **Email:** [maikdra@outlook.com](mailto:maikdra@outlook.com)
 - **GitHub:** [millanda29](https://github.com/millanda29)
+
+---
+
