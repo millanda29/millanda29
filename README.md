@@ -1,55 +1,117 @@
-# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> ¡Hola! Soy Maikol Isaac Llanda Huatatoca
+<h1 align="center">👨‍💻 Maikol Isaac Llanda Huatatoca</h1>
+<h3 align="center">Estudiante de Ingeniería en Sistemas de Información | Fullstack Developer 🚀</h3>
 
-### Estudiante de Ingeniería en Sistemas de Información
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380px" alt="Coding with JavaScript & Python"/>
+</p>
 
-Soy un estudiante de Ingeniería Informática apasionado por el desarrollo de software y la gestión de proyectos. Estoy buscando oportunidades para aplicar mis conocimientos y habilidades en un entorno profesional, contribuyendo al éxito de la organización mientras continúo mi desarrollo profesional.
+---
 
-## 🔧 Habilidades Técnicas
+## 🎓 Sobre mí  
 
-### Lenguajes de Programación
-![JavaScript](https://skillicons.dev/icons?i=js) ![Java](https://skillicons.dev/icons?i=java) ![PHP](https://skillicons.dev/icons?i=php) ![C#](https://skillicons.dev/icons?i=cs) ![Python](https://skillicons.dev/icons?i=py)
+Soy estudiante de **Ingeniería en Sistemas de Información (UCE)** apasionado por el desarrollo **Fullstack**.  
+Me enfoco en construir soluciones digitales aplicando **arquitecturas escalables, buenas prácticas y automatización**.  
 
-### Desarrollo Frontend
-![React](https://skillicons.dev/icons?i=react) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
+Actualmente manejo **lenguajes, frameworks y herramientas modernas**, con interés en **Ciberseguridad, Cloud Computing y DevOps**.  
 
-### Desarrollo Backend
-![Spring Boot](https://skillicons.dev/icons?i=spring) 
-  - APIs RESTful
+✨ **Misión personal:** transformar ideas en soluciones digitales que aporten valor real a usuarios y organizaciones.  
 
-### Bases de Datos
-![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-  - SQL Server
+---
 
+## 🛠️ Tecnologías que manejo  
 
-### Control de Versiones
-![GitHub](https://skillicons.dev/icons?i=github)
+### 🔹 Lenguajes de Programación  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="40"/> JavaScript  
+  <img src="https://skillicons.dev/icons?i=java" height="40"/> Java  
+  <img src="https://skillicons.dev/icons?i=php" height="40"/> PHP  
+  <img src="https://skillicons.dev/icons?i=cs" height="40"/> C#  
+  <img src="https://skillicons.dev/icons?i=py" height="40"/> Python  
+</p>
 
-### Herramientas DevOps
-![Docker](https://skillicons.dev/icons?i=docker) ![Heroku](https://skillicons.dev/icons?i=heroku)
+### 🔹 Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="40"/> React  
+  <img src="https://skillicons.dev/icons?i=next" height="40"/> Next.js  
+  <img src="https://skillicons.dev/icons?i=vue" height="40"/> Vue.js  
+  <img src="https://skillicons.dev/icons?i=html" height="40"/> HTML5  
+  <img src="https://skillicons.dev/icons?i=css" height="40"/> CSS3  
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/> TailwindCSS  
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> Bootstrap  
+  <img src="https://skillicons.dev/icons?i=vite" height="40"/> Vite  
+</p>
 
-### Redes e Infraestructura
-- Conocimientos básicos en infraestructura de redes
+### 🔹 Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring" height="40"/> Spring Boot  
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/> Node.js  
+  <img src="https://skillicons.dev/icons?i=express" height="40"/> Express  
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40"/> FastAPI
+  <img src="https://skillicons.dev/icons?i=apollo" height="40"/> Apollo GraphQL  
+  <img src="https://skillicons.dev/icons?i=flask" height="40"/> Flask 
+</p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de GitHub </b>
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=millanda29&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=millanda29&layout=compact&theme=radical)
+### 🔹 Bases de Datos  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/> MySQL  
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40"/> PostgreSQL  
+  <img src="https://skillicons.dev/icons?i=oracle" height="40"/> Oracle  
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/> MongoDB  
+</p>
 
-## 🌱 En Proceso de Aprendizaje
+### 🔹 DevOps & Cloud  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="40"/> AWS  
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/> Docker  
+  <img src="https://skillicons.dev/icons?i=git" height="40"/> Git  
+  <img src="https://skillicons.dev/icons?i=github" height="40"/> GitHub  
+  <img src="https://skillicons.dev/icons?i=linux" height="40"/> Linux  
+</p>
 
-### Frameworks y Librerías
-![Angular](https://skillicons.dev/icons?i=angular) ![Vue](https://skillicons.dev/icons?i=vue) ![Flutter](https://skillicons.dev/icons?i=flutter)
+---
 
-### Herramientas de Automatización
-![Jenkins](https://skillicons.dev/icons?i=jenkins) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+## 🌱 En Aprendizaje  
 
-### Nuevas Tecnologías
-![Redis](https://skillicons.dev/icons?i=redis) ![Kafka](https://skillicons.dev/icons?i=kafka) ![Apollo](https://skillicons.dev/icons?i=apollo) ![Flask](https://skillicons.dev/icons?i=flask) ![AWS](https://skillicons.dev/icons?i=aws)
-  - Digital Ocean
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40"/> Kubernetes  
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40"/> Jenkins  
+  <img src="https://skillicons.dev/icons?i=redis" height="40"/> Redis  
+  <img src="https://skillicons.dev/icons?i=kafka" height="40"/> Kafka   
+  <img src="https://skillicons.dev/icons?i=azure" height="40"/> Azure  
+</p>
 
-## 📫 Contacto
+- 🔐 **Ciberseguridad** (redes, auditorías, ISO 27001, ITIL, buenas prácticas).  
+- ☸️ **Kubernetes y orquestación de contenedores**.  
+- ☁️ Profundización en **Cloud & DevOps**.  
+- 🤖 **IA aplicada a NLP y Visión por Computadora**.  
 
-<a href="https://github.com/millanda29" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+---
 
-<a href="mailto:maikdra@outlook.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+## 🤝 Habilidades Blandas  
+
+✔ Trabajo en equipo multidisciplinario  
+✔ Resolución de problemas con pensamiento crítico  
+✔ Comunicación efectiva (técnica y no técnica)  
+✔ Adaptabilidad a nuevas tecnologías y entornos  
+✔ Organización, gestión del tiempo y orientación a resultados  
+✔ Enfoque en la **mejora continua**  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=millanda29&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=millanda29&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=millanda29&layout=compact&theme=radical" height="170"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="350px" alt="Frontend & Backend Development"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350px" alt="Programming Languages Gif"/>
+</p>
